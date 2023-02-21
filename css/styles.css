@@ -1,7 +1,13 @@
 p {
     color: red;
+    padding: 10px 20px;
+    border: 2px solid blue;
+    margin: 30px
 }
 
-a[href ^="http"] {
-    color: red;
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    box-sizing: border-box;
 }
