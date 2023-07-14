@@ -1,5 +1,7 @@
 # NimaMeghdadi.github.io
 
-this repo is my website profile
+This repo is my website profile 
+
+You can visit [here](https://nimameghdadi.github.io/)
 
 [Template](https://www.free-css.com)
